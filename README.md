@@ -81,8 +81,8 @@ Explore our complete model collection on Hugging Face:
 
 ### Available Models
 
-- **[AgriGemma-3n-E2B-it](https://huggingface.co/Nadhari/AgriGemma-3n-E2B-it)**: Maximum performance variant for tablets and newer smartphones
-- **[AgriGemma-3n-E4B-it](https://huggingface.co/Nadhari/AgriGemma-3n-E4B-it)**: Efficiency-optimized variant for older devices and edge deployment
+- **[AgriGemma-3n-E2B-it](https://huggingface.co/Nadhari/AgriGemma-3n-E2B-it)**
+- **[AgriGemma-3n-E4B-it](https://huggingface.co/Nadhari/AgriGemma-3n-E4B-it)**
 - **GGUF Versions**: Quantized models for mobile and edge deployment
 
 ## 🌟 Key Features
