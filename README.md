@@ -1,7 +1,8 @@
 # AgriGemma-3n: On-Device Agricultural Intelligence
 
 <div align="center">
-<img width="1080" height="540" alt="cover" src="https://github.com/user-attachments/assets/1bf5bdf4-aecc-4595-a4ca-246e0a8d332c" />
+<img width="256" height="256" alt="ChatGPT Image Aug 9, 2025, 04_26_09 AM" src="https://github.com/user-attachments/assets/178cb20d-6a2f-4401-a493-ca39df0bc348" />
+
 </div>
 
 
