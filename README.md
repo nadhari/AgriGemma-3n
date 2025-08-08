@@ -49,10 +49,11 @@ ollama run hf.co/Nadhari/AgriGemma-3n-E2B-it-gguf:Q8_0
 
 ### Enhanced Experience with Ollamate
 
+For multimodal chat with **image and text support**, use [Ollamate](https://github.com/humangems/ollamate) - check their repository for detailed installation instructions.
+
 <img width="1101" height="764" alt="Screenshot 2025-08-07 at 5 56 31" src="https://github.com/user-attachments/assets/67952a61-4dd4-498b-a72c-9c02272fb3ab" />
 
 
-For multimodal chat with **image and text support**, use [Ollamate](https://github.com/humangems/ollamate) - check their repository for detailed installation instructions.
 
 ---
 
