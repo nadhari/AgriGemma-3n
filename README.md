@@ -22,7 +22,11 @@ Experience AgriGemma-3n instantly in your browser - upload crop images, ask ques
 
 ## 📱 Run on Your Phone
 
-Watch it in action (Text-only): [📹 Phone Demo Video](https://youtu.be/l7n7PV4ruhY)
+### 📹 Watch Mobile Demo (Text-only)
+
+[![Phone Demo Video](https://img.shields.io/badge/▶️_Watch-Phone_Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/l7n7PV4ruhY)
+
+**[🎥 Click here to watch the phone demo on YouTube](https://youtu.be/l7n7PV4ruhY)**
 
 ### iOS & Android Instructions:
 
@@ -37,9 +41,13 @@ Watch it in action (Text-only): [📹 Phone Demo Video](https://youtu.be/l7n7PV4
 
 3. **Download and start diagnosing** - chat with it for instant expert advice!
 
-## 💻 Run on Desktop (MUltimodal)
+## 💻 Run on Desktop (Multimodal)
 
-Watch desktop demo: [📹 Ollama Demo Video](https://youtu.be/nerN_UOIznw)
+### 📹 Watch Desktop Demo
+
+[![Desktop Demo Video](https://img.shields.io/badge/▶️_Watch-Desktop_Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/nerN_UOIznw)
+
+**[🎥 Click here to watch the Ollama demo on YouTube](https://youtu.be/nerN_UOIznw)**
 
 ### Quick Start with Ollama
 
@@ -171,7 +179,7 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ##  Acknowledgments
 
-- Crop Diseases Domain Multimodal Datset
+- Crop Diseases Domain Multimodal Dataset
 ```bibtex
 @article{liu2025multimodal,
   title={A Multimodal Benchmark Dataset and Model for Crop Disease Diagnosis},
